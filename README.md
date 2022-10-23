@@ -1,20 +1,19 @@
 # Desafio Mercearia
 
-Nesse desafio vamos trabalhar com um pouco de logica no front-end visando desenvolver o Javascript com um sistema básico de gestão de produtos e o conhecimento em Design. 
+Nesse desafio vamos trabalhar com um pouco de lógica no front-end visando desenvolver o Javascript com um sistema básico de gestão de produtos e o conhecimento em Design. 
 
 ```
 1 - Desenvolver habilidades na interpretação de textos;
 2 - Desenvolver o layout do sistema;
 3 - Desenvolver o design pattern e UI/UX;
 4 - Desenvolver o sistema usando lógica em javascript;
-5 - Desenvolver o raciocinio lógico;
+5 - Desenvolver o raciocínio lógico;
 ```
 
 ## O Briefing (Atenção)
 
-Dona Mafalda tem uma mercearia a anos e sua neta questionou ela sobre os seus ganhos; Sem saber sobre a resposta a vovó falou eu sempre pago minhas contas e o meu salário às vezes vem variável. 
-
-Em caixa havia R$ 2.389,32 e no mês de Março eu tive um gasto de R$ 4.356,00 em mantimentos para fazer os meus bolos, recebi R$ 2.876,57 em dinheiro e R$ 14.756,32 em cartão. Meu salário é de R$ 3.566,00, minha energia é R$ 2.879,00(Forno elétrico), meu aluguel é R$ 4.561,00, gasto R$ 150,00 com água e R$ 99,00 com internet, R$ 659,54 com gasolina para entregar os bolos e 2.500,00 com o meu funcionário. Eu também pago R$ 600,00 de contabilidade e R$900,00 em impostos, INSS e Simples Nacional.
+Dona Mafalda tem uma mercearia a anos e sua neta questionou ela sobre os seus ganhos; Sem saber sobre a resposta, a vovó falou: 
+Eu sempre pago minhas contas e o meu salário às vezes vem variável. Em caixa havia R$ 2.389,32 e no mês de Março eu tive um gasto de R$ 4.356,00 em mantimentos para fazer os meus bolos, recebi R$ 2.876,57 em dinheiro e R$ 14.756,32 em cartão. Meu salário é de R$ 3.566,00, minha energia é R$ 2.879,00(Forno elétrico), meu aluguel é R$ 4.561,00, gasto R$ 150,00 com água e R$ 99,00 com internet, R$ 659,54 com gasolina para entregar os bolos e 2.500,00 com o meu funcionário. Eu também pago R$ 600,00 de contabilidade e R$900,00 em impostos, INSS e Simples Nacional.
 
 1. Qual é o lucro bruto do mês de março?
 2. Sabendo que o bolo é R$ 20,00, quantos bolos foram vendidos para chegar no lucro líquido?
@@ -43,6 +42,7 @@ Usar [Classes](https://www.w3schools.com/js/js_classes.asp) para construir a ló
 Usar [Bootstrap](https://www.w3schools.com/bootstrap5/index.php) para construir o layout.
 
 ### Desejável
+Ganha pontos para quem empregar a ortografia brasileira sem errar;
 
 Ganha pontos para quem usar o [ChartJS](https://www.chartjs.org/)
 
@@ -78,7 +78,7 @@ Com base nas informações acima é pra criar um layout com a identidade visual 
 
 *Já com wireframe acima desenvolva o layout com cores, fontes e logo da marca de um jeito mais profissional.*
 
-Note que temos o Header foi posicionado o avatar e o nome da pessoa, ao lado temos a barra de navegação, onde vamos posicionar o logo e os botões de menu, que ao clicar deve mudar o conteúdo no content.
+Note que temos o Header, foi posicionado o avatar e o nome da pessoa. Ao lado temos a barra de navegação, onde vamos posicionar o logo e os botões de menu, que ao clicar deve mudar o conteúdo no content.
 
 # Exemplo: Não é pra fazer igual
 
