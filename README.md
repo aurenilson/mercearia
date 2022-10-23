@@ -55,23 +55,19 @@ Ganha pontos para quem usar o [Vuetify](https://vuetifyjs.com/en/getting-started
 Com base nas informações acima é pra criar um layout com a identidade visual da Marca, que Marca? Fica na tua Imaginação.
 
 <aside>
-🗣 **Nome**: Delícias da Vovó
-
+🗣 Nome: Delícias da Vovó
 </aside>
 
 <aside>
-📌 **Cores**: #7900ac; #f5b000; #000000;
-
+📌 Cores: #7900ac; #f5b000; #000000;
 </aside>
 
 <aside>
-🤐 **Font-principal**: Bebas Neue;
-
+🤐 Font-principal: Bebas Neue;
 </aside>
 
 <aside>
-😘 **Font-apoio**: Oxygen;
-
+😘 Font-apoio: Oxygen;
 </aside>
 
 ## Wireframe
